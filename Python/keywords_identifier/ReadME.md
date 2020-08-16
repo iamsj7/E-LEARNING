@@ -2,8 +2,6 @@
 ---
 #### _All the keywords except True, False and None are in lowercase and they must be written as they are. The list of all the keywords is given below._
 #
-#
-#
 | 1 | 2 | 3 | 4 | 5 |
 | ------ | ------ | ------ | ------ | ------|
 |False|await|else|import|pass
