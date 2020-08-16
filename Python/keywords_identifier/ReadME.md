@@ -59,3 +59,29 @@ try|To make a try...except statement
 while|To create a while loop
 with|Used to simplify exception handling
 yield|To end a function, returns a generator
+
+
+### Python Identifiers
+_An identifier is a name given to entities like class, functions, variables, etc. It helps to differentiate one entity from another._
+
+***Rules for writing identifiers***
+
+**1. Identifiers can be a combination of letters in lowercase `(a to z)` or `uppercase` `(A to Z)`or digits `(0 to 9)` or an underscore` _`.**
+
+_**Examples**_
+`MyPythonTeacher`
+`mypython`
+`my_name_is_jaleel`
+`variable_1`
+`variable1`
+
+**2.Identfier cannot start by digits example `1name` but it can be written as `name1`.**
+
+**3. Most importantly keywords can't be used as  Identifiers.**
+_**Examples**_
+`class = 1` 
+`global = 1`
+
+**4. We cannot use special symbols like `!, @, #, $, %` etc. in our identifier**
+
+**5. An identifier can be of any length.**
